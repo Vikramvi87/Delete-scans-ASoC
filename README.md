@@ -8,4 +8,4 @@ How to use:<br>
 Example:<br>
 ./deleteScans.sh 2022-07-01 2022-07-31<br>
 <br>
-PS: Be careful using this script.
+PS: Be careful using this script. Test on small periods before a deletion on larger periods.
