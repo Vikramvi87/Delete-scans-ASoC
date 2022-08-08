@@ -1,7 +1,7 @@
 # Delete scans in ASoC
 <br>
 Connect to ASOC (AppScan on Cloud) get scansids in a period of time and delete all scans keeping all issues.<br>
-Before use, set variables ASOCkeyId and ASOCkeySecret.<br> Jq is required.
+Before use, set variables ASOCkeyId and ASOCkeySecret. Jq is required.<br> 
 <br>
 How to use:<br>
 ./deleteScans.sh startDate endDate<br>
