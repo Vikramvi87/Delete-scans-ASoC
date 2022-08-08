@@ -1,5 +1,5 @@
 #!/bin/bash
-# Connect to ASOC (AppScan on Cloud) get scansids in a period of time and delete all scans keeping all issues.
+# Connect to ASOC (AppScan on Cloud) get scanIds in a period of time and delete all scans keeping all issues.
 # Before use, set variables ASOCkeyId and ASOCkeySecret.
 # How to use:
 # ./deleteScans.sh <startDate> <endDate>
