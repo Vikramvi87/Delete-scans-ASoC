@@ -7,3 +7,5 @@ How to use:<br>
 ./deleteScans.sh startDate endDate<br>
 Example:<br>
 ./deleteScans.sh 2022-07-01 2022-07-31<br>
+<br>
+PS: Be careful using this script.
